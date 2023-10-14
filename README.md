@@ -6,6 +6,7 @@ The project utilizes the following datasets:
 
 **emp_record_table**: It contains the information of all the employees.
 EMP_ID – ID of the employee
+
 FIRST_NAME – First name of the employee
 LAST_NAME – Last name of the employee
 GENDER – Gender of the employee
