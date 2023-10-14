@@ -69,4 +69,3 @@ EXP – Years of experience the employee has
 COUNTRY – Country in which the employee is presently living
 
 CONTINENT – Continent in which the country is
-
