@@ -5,20 +5,33 @@ This repository contains an SQL analysis project that involves three datasets: d
 The project utilizes the following datasets:
 
 **emp_record_table**: It contains the information of all the employees.
+
 EMP_ID – ID of the employee
 
 FIRST_NAME – First name of the employee
+
 LAST_NAME – Last name of the employee
+
 GENDER – Gender of the employee
+
 ROLE – Post of the employee
+
 DEPT – Field of the employee
+
 EXP – Years of experience the employee has
+
 COUNTRY – Country in which the employee is presently living
+
 CONTINENT – Continent in which the country is
+
 SALARY – Salary of the employee
+
 EMP_RATING – Performance rating of the employee
+
 MANAGER_ID – The manager under which the employee is assigned 
+
 PROJ_ID – The project on which the employee is working or has worked on
+
 
 **Proj_table**: It contains information about the projects.
 PROJECT_ID – ID for the project
